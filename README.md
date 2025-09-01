@@ -15,15 +15,11 @@
 
 ## 📌 Featured Projects
 - [Spring Boot Blog API](https://github.com/vishnubansode/springboot-blog-api) 📝 REST API with JWT Auth, Swagger, Pagination & Sorting
-- [Library Management System](#) 📚 Spring Boot + Thymeleaf
-- [Expense Tracker Backend](#) 💰 Spring Boot + Swagger
-
-## 📊 GitHub Stats
-![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnubansode&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnubansode&layout=compact&theme=radical)
+- [Library Management System](https://github.com/vishnubansode/library_management_system.git) 📚 Spring Boot + Thymeleaf
+- [Expense Tracker Backend](https://github.com/vishnubansode/expense-tracker-api.git) 💰 Spring Boot + Swagger
+- [Zerodha Clone](https://github.com/vishnubansode/zerodha-clone.git) 💰 React + Bootstrap
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnubansode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-bansode-66b80a208/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bansodevishnu24@gmail.com)
 
